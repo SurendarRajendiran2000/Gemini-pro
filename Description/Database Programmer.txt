@@ -1,0 +1,12 @@
+Database Programmer
+
+Job description:
+
+•	Minimum of 3 years of Oracle DBA experience.
+•	Minimum of 3 years of UNIX OS experience, ideally on Linux
+•	Experience with Oracle OLTP and VLDB database environments, particularly with large transaction volume.
+•	Experience with performance tuning and troubleshooting of Oracle databases.
+•	Experience with Oracle software installation, database creation, upgrades, and migrations.
+•	Experience with Oracle Enterprise Manager or an equivalent monitoring tool is preferred.
+•	Bachelors Degree in a computer-related field, or equivalent experience.
+•	Knowledge and experience with Cloud providers like AWS, Azure, Oracle Cloud a plus

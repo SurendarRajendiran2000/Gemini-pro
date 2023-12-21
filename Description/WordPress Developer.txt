@@ -1,0 +1,11 @@
+WordPress Developer
+
+Job description
+
+•	We are looking for the talented Senior WordPress Developers to join our team
+•	The ideal candidate will be responsible for both back-end and front-end development, including developing WordPress themes and plugins
+•	Overseeing and executing the development, customization, and maintenance of WordPress-based websites
+•	With an in-depth understanding of PHP, HTML, CSS, and JavaScript, the senior developer collaborates closely with cross-functional teams to translate client requirements into robust, scalable, and visually appealing WordPress solutions
+•	This role involves not only the implementation of complex features but also the optimization of existing code, troubleshooting, and staying abreast of industry trends to ensure the continuous enhancement of web experiences
+•	Additionally, the senior WordPress developer will be responsible for mentoring junior developers, providing technical guidance, and contributing to the overall improvement of development processes
+•	Strong communication skills and a passion for staying up-to-date with the latest WordPress advancements are essential in this position.

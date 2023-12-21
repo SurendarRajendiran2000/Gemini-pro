@@ -1,0 +1,44 @@
+Senior LOS Software Programmer Analyst
+Location: Santa Ana, CA
+
+The Software Engineer will utilize experience to customize and solve problems in the DataTrac Loan Origination System. Develop and execute objectives for self and others, and effect short-term and some long-term business goals.
+
+This position involves extensive customization, implementation, support and development of solution based on DataTrac. The successful software engineer must be able to build high quality solutions on a variety of Loan Origination platforms quickly, document these solutions, build test suites and deploy them.
+
+Essential Responsibilities:
+
+Analyze, Design, implement and deliver defect free software on time to meet the requirements
+Modify and extend existing global design framework.
+Work with Stake holders to review and create engineering functional specifications, Scrum user stories and provide product backlog estimates.
+Analyze, Design and code independently on individual assignments, and help others in the team to deliver their assignments, in each Scrum sprint.
+Provide support after product is delivered to field and always strive for continuous improvement.
+Meet & follow development schedules
+Produce design documents and functional specifications
+Qualifications/Requirements:
+
+Bachelor's Degree in Computer Science or equivalent program.
+At least 4 years of experience in Software development
+At least 2 years of experience in C#, .NET, ASP.NET, MVC
+At least 2 years of experience in customizing, implementing, supporting and developing solutions for Loan Origination Systems
+At least 3 years of experience in developing/ working with in mortgage solutions.
+At least 2 years of experience with Agile software development processes
+Additional Eligibility Qualifications
+
+At least 2 years of experience working in Loan Origination system
+Desired Characteristics:
+
+Hands on experience working in customizing, implementing, supporting and developing DataTrac is a big plus
+Familiar with software source control, bug tracking and build process Successful use of code profiling, optimization, analysis tools
+Automated testing
+Automated builds
+Experience on Customizing DataTrac
+Experience with TFS based Source code control
+Strong grasp of software design patterns
+Ability to promote ideas and make sound technical decisions as a member of a team of technical experts
+Ability to produce detailed and complete functional design and interface documents
+Ability to directly interface with internal and possibly external customers is required
+Ability and desire to deliver high-quality software quickly through iterative development
+Ability to stay organized and focused while supporting multiple areas of shifting technical and conceptual complexity
+Strong problem solving and leadership skills
+Excellent verbal and written communication skills
+Experience working with global development team is highly desired

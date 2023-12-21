@@ -1,0 +1,12 @@
+Application Architect
+
+Job description:
+
+•	Overall years of Microservices, Application-level design and architecting for SaaS applications and cloud-based applications. DevOps, open-source tech stack, security, scalability, performance tuning
+•	Good understanding and experience of cloud native application design principles (like micro-services, stateless application meant for cloud, containers, 12 factor app principles etc.)
+•	Experience with Java, Spring, Spring Security, Spring MVC, Spring Integration, Spring Data Familiarity with application and infrastructure monitoring tools such as New Relic, Splunk
+•	Familiarity/Experience with container technologies, e.g., Docker, Kubernetes etc.
+•	Knowledge on CI/CD tools like Bosh, Chef, Puppet, Jenkins, Git, Concourse is preferred.
+•	Creative problem-solving skills and superb communication Skill.
+•	Ability to handle change and be open to it along with good time management and an able to work under stress.
+•	Proven interpersonal skills while contributing to team effort by accomplishing related results as needed.

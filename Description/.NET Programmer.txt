@@ -1,0 +1,22 @@
+.NET Programmer
+
+Job description:
+
+•	Utilizing Microsoft's .NET infrastructure to create software solutions that meet clients' requirements.
+•	Collaborating with coworkers to facilitate the creation of large, complex developments, as required.
+•	Reformulating existing code to ensure adherence to stipulated guidelines.
+•	Checking your code to detect and remedy errors and omissions.
+•	Testing your outputs to ensure that they are in excellent working order.
+•	Ensuring that outputs are visually appealing, user-friendly, and engaging.
+•	Deploying developments and monitoring uptake by the target audience.
+•	Using clients' feedback to inform the creation of subsequent versions of each development.
+•	Remaining abreast of coding and technological changes that will impact your work.
+•	Prior experience as a .NET Developer.
+•	In-depth knowledge of .NET infrastructure.
+•	Advanced proficiency in C#, F#, or VB.NET; preferably all three.
+•	Capacity to use SQL or Oracle with ease.
+•	A flair for creating well-presented software that is technically sound.
+•	Outstanding analytical, problem-solving, and communication skills.
+•	Excellent organizational and time management skills.
+•	Self-driven, flexible, and innovative.
+

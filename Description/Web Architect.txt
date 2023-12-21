@@ -1,0 +1,15 @@
+Web Architect
+
+Job description:
+
+•	Relevant architect experience required, especially in large-scale web applications.
+•	Experience with technical product configuration, design, and/or integration
+•	Comprehensive knowledge of object-oriented concepts with emphasis on .NET specifications, framework, .Net Core+ and design patterns using C#
+•	Experienced in building event driven applications and CQRS pattern.
+•	Experience in building ASP.Net Core Web application using MVC or Razor pages.
+•	Experience in building applications using ASP.Net Core WebApi, gRPC or GraphQL
+•	Experience in implementing SSO in ASP.Net Core Web and WebApi applications using OIDC or OAuth
+•	Should have experience in working with any of the messaging systems like RabbitMQ, AWS SNS, Kafka or Azure Service Bus
+•	Should have experience in working with distributed caching using Redis.
+•	Experience in developing applications using either Azure or AWS services.
+•	Experience working with client enterprise products, services, and strategies; and technical products, vendors, families of technologies and product configurations.

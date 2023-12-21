@@ -1,0 +1,15 @@
+Systems Tester
+
+Job description:
+
+•	Extensive experience using Selenium Grid/Selenium webdriver with solid test automation script development.
+•	A deep understanding of the Selenium object model, Java and Web, client/server technologies.
+•	Excellent knowledge of one or more high level scripting language including Java Script.
+•	Ability to quickly understand complex application and systems.
+•	Ability to transform manual test cases into modular automated tests.
+•	Excellent knowledge of version management and base-lining needs for test assets.
+•	Clear understanding of the Agile -SDLC phases, especially requirements and how they map to tests.
+•	Ability to proactively comprehend problems and resolve them with minimal supervision.
+•	Energetic self-starter, with desire to work in a dynamic fast-paced environment.
+•	Ability to multi-task and adjust priorities when situation requires
+•	Excellent verbal and written communication

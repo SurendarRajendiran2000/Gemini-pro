@@ -1,0 +1,15 @@
+E-Commerce Programmer
+
+Job description:
+
+•	Creating and maintaining a website’s structure to ensure it is compatible with web browsers, search engines, and other devices such as mobile phones or tablets
+•	Developing ecommerce websites that are easy to navigate, have relevant content, and provide high quality images
+•	Creating new products, updating existing ones, adding them to the website catalog, and managing inventory levels
+•	Identifying opportunities for improvement in conversion rates and recommending changes to increase sales or reduce costs
+•	Establishing an online presence for businesses through social media platforms such as Facebook or Twitter
+•	Creating and implementing marketing strategies based on customer data and industry trends
+•	Designing and developing websites using web design software such as Adobe Dreamweaver or Microsoft Visual Studio
+•	Building and maintaining online stores with an ecommerce platform such as Shopify or Magento
+•	Maintaining the security of websites through virus scans and penetration testing to identify vulnerabilities that could be exploited by hacker.
+•	Ecommerce developers need to have a thorough understanding of computer programming languages like Java, Python and C++. They also need to have a working knowledge of other technical skills like HTML, CSS and SQL, SEO, Marketing knowledge 
+•	Strong in communication skills.

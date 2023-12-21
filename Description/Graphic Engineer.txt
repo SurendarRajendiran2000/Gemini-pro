@@ -1,0 +1,13 @@
+Graphic Engineer
+
+Job description:
+
+•	We re looking for experienced engineers with at least 4 years of experience, with strong knowledge of graphics and GPU architectures strong foundation in parallel algorithms.
+•	As a software engineer you will work on redefining the stack to enable ARVR applications of the future as you and our fast-paced business grow and evolve.
+•	We need our engineers to be versatile and enthusiastic to tackle new problems across the full-stack focused on graphics pipeline.
+•	Creating the Landmarks such as buildings, stadiums, Point of Interest by different applications like Maya, Blender, Photoshop, ArcGIS.
+•	We have still a long way to go and you can help us reach there!
+•	You are responsible for developing a rendering pipeline that is optimized for ARVR ecosystem, considering rendering complexity, transmission cost and perceptual complexity.
+•	You will have the opportunity to work with a talented team of researchers and be exposed to the latest technologies in AR world.
+•	You will be building cross-platform libraries and frameworks that support fast, responsive and beautiful immersive experiences.
+•	Education and Work Experience: Must have knowledge in Maya, Blender, Photoshop & 3DS Max.

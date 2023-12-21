@@ -1,0 +1,22 @@
+Certified Ethical Hacker
+
+Job description:
+
+•	Meeting with clients to discuss the security system currently in place.
+•	Researching the company's system, network structure, and possible penetration sites.
+•	Conducting multiple penetration tests on the system.
+•	Identifying and recording security flaws and breaches.
+•	Identifying areas of high-level security.
+•	Reviewing and rating the security network.
+•	Creating suggestions for security upgrades.
+•	Compiling penetration test reports for the client.
+•	Conducting penetration tests once new security features have been implemented.
+•	Suggesting alternate upgrades.
+•	CEH Certification.
+•	Proven work experience as a certified ethical hacker.
+•	Advanced knowledge of networking systems and security software.
+•	In-depth knowledge of parameter manipulation, session hijacking, and cross-site scripting.
+•	Technical knowledge of routers, firewalls, and server systems.
+•	Good written and verbal communication skills.
+•	Good troubleshooting skills.
+•	Ability to see big-picture system flaws.

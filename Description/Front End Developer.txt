@@ -1,0 +1,19 @@
+Front End Developer
+
+Job description:
+
+•	Developing user-facing features and components using HTML, CSS, and JavaScript frameworks (e.g., React, Angular, or Vue.js).
+•	Collaborating with back-end developers and UX/UI designers to create seamless user experiences and ensure technical feasibility.
+•	Optimizing web applications for maximum speed and performance across different devices and browsers.
+•	Conducting code reviews and adhering to coding standards to ensure a high-quality and maintainable codebase.
+•	Implementing responsive design principles and ensuring cross-platform compatibility.
+•	Troubleshooting and debugging issues to enhance application functionality and user experience.
+•	Staying up-to-date with the latest front-end trends, technologies, and best practices.
+•	Bachelor's degree in Computer Science, Web Development, or a related field is preferred.
+•	You have proven work experience as a Front-end Developer or a similar role.
+•	You possess proficiency in HTML, CSS, and JavaScript.
+•	You have experience with JavaScript frameworks (e.g., React, Angular, or Vue.js) and related tools.
+•	You are familiar with version control systems (e.g., Git).
+•	You have a strong understanding of responsive design and mobile-first development.
+•	You have knowledge of web accessibility standards and best practices.
+•	You have excellent problem-solving and communication skills.

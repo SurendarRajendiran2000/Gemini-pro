@@ -1,0 +1,17 @@
+Web Programmer
+
+Job description:
+
+•	Builds, designs, and maintains all websites and software applications.
+•	Regulates exposure to business stakeholders and executive management as well as other authorities.
+•	Designs, writes, and edits website content.
+•	Understands UI, cross-browser compatibility, and general web functions and standards.
+•	Creates solutions for identified problems or bugs.
+•	Communicates with colleagues, managers, and stakeholders daily.
+•	Executes assignments with the use of web applications, scripts, and programming languages such as HTML, CSS, JavaScript, and APIs.
+•	Develops and validates test routines to ensure the quality of the external and internal interface.
+•	Plans and delivers software platforms and products across multiple organizational units.
+•	Designs assignments with web services like REST, SOAP, etc.
+•	Evaluates written code to ensure it meets industry standards and is compatible with all devices.
+•	Maintains a professional understanding of web development by tracking trends and participating in study groups.
+•	Accomplishes company goals by accepting ownership of new and different requests.

@@ -1,0 +1,14 @@
+Object-Oriented Programmer
+
+Job description:
+
+•	Develop new features in an iterative way that collectively form a larger application
+•	Modify and enhance existing software to add or change features, while constantly improving the codebase
+•	Participate in the estimation of work to be done as part of an overall agile process
+•	Maintain current applications, including, but not limited to, bug fixes, feature enhancements and performance tuning, troubleshoot and debug complex issues
+•	Work with a team to create detailed project specifications, requirements and estimates, ensure tasks/projects are completed on time and within scope
+•	Document validation of design decisions and lead code reviews
+•	Uses Microsoft's .NET framework to create and support applications written in Visual Basic 6.0, Classic ASP, VB.NET, C#, ASP.NET, MVC, Ajax, Web Services and multiple database server technologies
+•	Responsible for development and support of Web Sites, fat client desktop applications, web services and batch processing software or customizing off the shelf software supporting the HR lines of business
+•	Support existing applications work on new development projects
+•	Must be able to develop new web services and leverage existing web services to interface with other systems

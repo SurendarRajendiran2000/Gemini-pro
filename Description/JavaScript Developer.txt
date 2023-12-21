@@ -1,0 +1,20 @@
+JavaScript Developer
+
+Job description:
+
+•	Develop and maintain web applications using JavaScript, HTML, and CSS.
+•	Collaborate with cross-functional teams to understand project requirements and contribute to the design and architecture of front-end solutions.
+•	Write well-structured, efficient, and reusable code.
+•	Implement and maintain interactive and responsive user interfaces.
+•	Collaborate with UX/UI designers to implement design concepts and ensure a visually appealing user experience.
+•	Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability.
+•	Conduct thorough testing and debugging to identify and resolve issues, ensuring high-quality code.
+•	Stay updated on the latest industry trends and best practices in front-end development.
+•	Work closely with back-end developers to integrate user-facing elements with server-side logic.
+•	Collaborate in code reviews to maintain code quality, share knowledge, and provide constructive feedback.
+•	Proven experience as a JavaScript Developer or similar role.
+•	Strong proficiency in JavaScript, HTML, and CSS.
+•	Experience with front-end frameworks such as React, Angular, or Vue.js.
+•	Familiarity with asynchronous request handling, promises, and AJAX.
+•	Knowledge of cross-browser compatibility issues and ways to work around them.
+•	Familiarity with code versioning tools, such as Git.

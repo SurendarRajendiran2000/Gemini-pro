@@ -1,0 +1,11 @@
+Machine Learning Engineer
+
+Job description:
+
+•	Set up and optimize large language models, ensuring their efficient operation on cloud platforms or local remote machines.
+•	Establish Flask and FastAPI frameworks, or deploy solutions on Azure cloud, creating a robust infrastructure for the project.
+•	Design and implement data pipelines tailored for acquiring and transforming relevant information to enhance the capabilities of the interactive and suggestive chatbot.
+•	Install and configure on-premise language model infrastructure, ensuring seamless integration with cloud-based solutions.
+•	Collaborate closely with IT and development teams to guarantee systematic and reliable deployment of language models and chatbot functionalities.
+•	Work in tandem with product and engineering teams to continually enhance and tailor the chatbots capabilities for effective user engagement.
+•	Provide ongoing support for existing deployments and adapt solutions quickly to meet evolving project requirements. Existing deployments and quickly adapt solutions to changing conditions.

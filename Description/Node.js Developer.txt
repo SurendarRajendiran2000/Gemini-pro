@@ -1,0 +1,23 @@
+Node.js Developer
+
+Job description:
+
+•	Develop and maintain server-side logic using Node.js.
+•	Collaborate with cross-functional teams to understand project requirements and contribute to the design and architecture of server-side solutions.
+•	Implement and maintain RESTful APIs for seamless communication between front-end and back-end systems.
+•	Work with databases (e.g., MongoDB, MySQL) to store and retrieve data efficiently.
+•	Write well-structured, efficient, and reusable code.
+•	Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+•	Conduct thorough testing and debugging to identify and resolve issues, ensuring high-quality code.
+•	Implement security and data protection measures.
+•	Stay updated on the latest industry trends and best practices in Node.js development.
+•	Collaborate in code reviews to maintain code quality, share knowledge, and provide constructive feedback.
+•	Participate in the optimization of the application for maximum speed and scalability.
+•	Proven experience as a Node.js Developer or similar role.
+•	Strong proficiency in JavaScript and Node.js.
+•	Experience with popular Node.js frameworks (e.g., Express.js).
+•	Knowledge of asynchronous programming and event-driven architecture.
+•	Familiarity with front-end technologies (e.g., HTML, CSS, JavaScript) and their integration with Node.js.
+•	Experience with database design and management (e.g., MongoDB, MySQL).
+•	Understanding of RESTful API design and implementation.
+•	Familiarity with version control systems, such as Git.

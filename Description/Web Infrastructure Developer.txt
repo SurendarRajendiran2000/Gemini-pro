@@ -1,0 +1,18 @@
+Web Infrastructure Developer
+
+Job description:
+
+•	Design, implement, and maintain the infrastructure for web applications and websites.
+•	Collaborate with cross-functional teams to understand project requirements and ensure the scalability and reliability of web infrastructure.
+•	Implement and manage cloud-based solutions, utilizing platforms such as AWS, Azure, or Google Cloud.
+•	Develop and maintain automated deployment processes for web applications.
+•	Configure and optimize web servers (e.g., Apache, Nginx) for performance and security.
+•	Monitor and troubleshoot issues related to web infrastructure, ensuring minimal downtime.
+•	Implement and manage content delivery networks (CDNs) to optimize website performance.
+•	Collaborate with security teams to implement and maintain robust security measures for web infrastructure.
+•	Stay updated on the latest industry trends and best practices in web infrastructure development.
+•	Work with development teams to optimize application code for better infrastructure performance.
+•	Implement and manage version control systems and continuous integration/continuous deployment (CI/CD) pipelines.
+•	Collaborate with network administrators to ensure seamless connectivity and efficient data transfer.
+•	Conduct performance testing and implement optimizations to enhance overall web infrastructure efficiency.
+•	Ensure compliance with industry standards and regulations related to web infrastructure.

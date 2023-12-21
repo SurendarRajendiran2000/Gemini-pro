@@ -1,0 +1,33 @@
+Quality Assurance Specialist
+
+Job description:
+
+•	Author structured processes & maintain Process portal.
+•	Analyze changes/ improvement suggestions for Process Governance Board (PGB).
+•	Manage releases for Process portal.
+•	Facilitate Process Governance Board (PGB).
+•	Analyze data & identify improvements.
+•	Report Project metrics data.
+•	Liaison with Process champions for continuous process improvement.
+•	Facilitate Train the Trainer program.
+•	Train & Coach Project Teams.
+•	Assist to identify project specific tailoring.
+•	Provide process implementation and tools usage support.
+•	Assist in defect root cause analysis (3L5Y analysis) to identify Systemic causes.
+•	Assist with closure of Non-conformances.
+•	Participate in project status meetings.
+•	Participate in software activities, such as reviews, to ensure process compliance.
+•	Ensure Lessons Learned meetings, and derive actions to improve processes & quality.
+•	Support external Automotive SPICE assessments.
+•	Experience with implementation of Automotive SPICE and/ or CMMI Level 3 processes.
+•	Aspice 3.1 Provisional Assessor Certification is must.
+•	Understanding of ISO 26262 functional safety concepts
+•	Understanding of MISRA standards, and verification methods/ tools
+•	Proficient with MS office (Word, PowerPoint, Excel, Visio and Project)
+•	Experience with Portfolio/ Program management tools like Clarity, JIRA, etc.
+•	Experience with Configuration management tools
+•	Experience with requirements analysis tools such as DOORS
+•	Familiarity with quality assurance methodologies
+•	Exhibits strong analytical, verbal and written communication skills
+•	Ability to influence key stakeholders and practitioners
+•	Familiarity with Agile developments methodology (Preferred)

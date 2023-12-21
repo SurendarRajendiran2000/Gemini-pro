@@ -1,0 +1,10 @@
+Web Software Engineer
+
+Job description:
+
+•	Design and develop mobile web applications using Java, Javascript, HTML/CSS, Bitbucket, Adobe, JIRA and Visual Studio
+•	Create proof-of-concept solutions for new products; translate these concepts into mockups and manage user experiences
+•	Manage front-end application development processes, including competitive research, testing and development using Adobe Creative Cloud, HTML, CSS and Javascript. Supervise front-end developers, solve issues and promote best practices for stable and reusable code.
+•	Create strategies with business architects to manage technical architecture, system load limitations and meet evolving business demands.
+•	Oversee troubleshooting projects to validate code for potential security and compatibility issues across browsers, devices and operating systems.
+•	Collaborate with senior management, product managers, and designers to define and plan new product features that meet business objectives.

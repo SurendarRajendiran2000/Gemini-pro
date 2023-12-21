@@ -1,0 +1,17 @@
+ASP.NET Developer
+
+Job description:
+
+•	Hands-on development of enterprise Web Applications utilizing Microsoft .Net framework, VB.Net /C#/Azure and Microsoft SQL Server.
+•	Experience developing asp.net MVC application / Web Forms
+•	Experience in entity framework Code First / Database First approaches.
+•	Ability to clearly / professionally communicate with business users & team members.
+•	Managing projects for web/windows development and backend services development using MS Visual Studio and SQL Server.
+•	Experience in IT projects using various development methodologies such as Waterfall, Agile or Scrum.
+•	Self motivated with a passion to code and willing to meet aggressive timelines.
+•	Strong experience in software development, technical support and IT processes.
+•	Good experience in designing, developing, coding and testing.
+•	Microsoft Certification is plus
+•	Self-motivated with a passion to code and willing to meet aggressive timelines.
+•	Strong background experience in ASP.NET, C# .NET Framework 3.5/4.0/4.5, WCF, HTML, JAVASCRIPT, ADO.NET , C#, AJAX, J QUERY, LINQ
+•	Understanding on networks and infrastructures as it relates to coordinating activities for project deployments.

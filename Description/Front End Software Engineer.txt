@@ -1,0 +1,19 @@
+Front End Software Engineer
+
+Job description:
+
+•	Collaborate with cross-functional teams to understand project requirements and translate them into technical specifications.
+•	Design and implement responsive and user-friendly web applications, ensuring a seamless and visually appealing user experience.
+•	Work closely with UX/UI designers to bring design concepts to life and provide input on feasibility and optimization.
+•	Develop and maintain reusable, modular, and scalable code for front-end components using HTML, CSS, and JavaScript.
+•	Implement and maintain web standards and best practices for performance, accessibility, and cross-browser compatibility.
+•	Integrate front-end components with back-end services and databases to ensure seamless end-to-end functionality.
+•	Conduct thorough testing and debugging of web applications to identify and resolve issues, ensuring high-quality code.
+•	Stay up-to-date with the latest front-end technologies, tools, and trends, and incorporate them into development processes.
+•	Collaborate with other team members, including back-end developers and product managers, to deliver high-quality software solutions.
+•	Participate in code reviews to maintain code quality and share knowledge with team members.
+•	Proven experience as a Front-End Software Engineer or similar role.
+•	Proficient in HTML, CSS, and JavaScript, with expertise in at least one modern front-end framework (e.g., React, Angular, Vue.js).
+•	Strong understanding of web performance optimization, responsive design, and cross-browser compatibility.
+•	Experience with version control systems, such as Git.
+•	Familiarity with build tools and package managers (e.g., Webpack, npm).

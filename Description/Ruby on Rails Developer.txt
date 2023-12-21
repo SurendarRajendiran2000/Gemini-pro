@@ -1,0 +1,14 @@
+Ruby on Rails Developer
+
+Job description:
+
+•	Design software and write code in RoR, React JS applications with SQL databases (postgres, Oracle) and debug software virtualization failures in Windows-user mode and kernel mode.
+•	Implement and improve processes around DevOps, Agile, and CI/CD
+•	Implement solution for application isolation using test-driven development with 100% code coverage.
+•	Have strong experience in consuming and creating RESTful APIs.
+•	Having excellent skill in HTML, CSS, Javascript, jQuery
+•	Read and review code from other developers to reduce bugs, improve implementations and expand your knowledge.
+•	Investigate and reproduce complex bugs using logs from several infrastructure components.
+•	Participate in Agile scrum process and attend standup, planning, grooming, review and retrospective meetings.
+•	Write automated feature testing scripts to enable smooth feature regression.
+

@@ -1,0 +1,12 @@
+Beta Tester
+
+Job description:
+
+•	Manage departmental inventory and troubleshoot testing, reporting and inventory issues.
+•	Conduct QA, software maintenance, on-site and off-site customer support.
+•	Communicate numerous glitches to the primary QA team using in-depth reporting and research methodologies.
+•	Understand OCAP specification with focus on DVR API of IO2 and IO3 on subsections.
+•	Strong knowledge of test methodologies and QA best practices
+•	Proficiency in automated testing tools
+•	Experience with bug tracking systems
+•	Beta Test, Video Games, Data Verification, Windows XP, IOS, QA, PC, User Interface, C++

@@ -1,0 +1,46 @@
+**Senior Full Stack Developer - .NET**
+
+**Job Description**
+
+**About the position:**
+
+The Sr. Developer has primary responsibility for the following:
+
+- Working with clients to understand their business problems and proposing solutions.
+- Managing multiple in-flight projects with different timelines and utilizing various technologies.
+- Working within and managing a source control environment and mentoring new developers in this environment.
+
+**Required Skills**
+
+The successful candidate will possess the following skills and experience:
+
+- Strong communication skills in dealing with IT business units and C-Level leadership.
+- Ability to mentor and take responsibility for onshore and offshore team members’ deliverables towards project goals.
+- Hands-on experience with development tools and frameworks.
+- 5+ years’ experience with the .NET Framework (version 3.5 or higher).
+- Solid understanding of ASP.NET MVC, Web API, ADO.NET (Entity Framework).
+- 5+ years’ experience developing web-based applications in .NET Framework.
+- 5+ years’ experience developing and implementing SQL scripts and stored procedures in SQL Server.
+- 3+ years’ experience working in a source-controlled environment, such as Git or TFS.
+- Ability to implement coding best practices and standards.
+- Solid understanding of best practices with web application design.
+- Solid ability to understand business value of requirements and prioritize requirements relative to development effort; ability to communicate this prioritization to business units and IT leadership.
+
+**Desirable Skills**
+
+- 5+ years’ experience with C#.
+- 3-5 years’ experience with JavaScript.
+- 2-3 years’ experience with client-side frameworks like Bootstrap or Angular (5 and above).
+- Technology modernization through cloud architecture migration experience.
+- Familiarity with NoSQL systems like MongoDB or Redis.
+- Deep understanding of Microservices.
+- Knowledge in 12-factor application architecture.
+- Solid understanding of various Design Patterns.
+- Work effort estimation skills.
+- Understanding of Agile software development principles along with experience participating in agile projects.
+
+**Education Qualification:** Master of Computer Applications from Sri Venkateswara University, 2008.
+
+**Project Types:** Rights Line, COMPASS Express, Contract Management & Program Accounting Scheduling System (COMPASS), Participations and Residual Information System (PARIS), Time Keeper.
+
+**Certification:** MCSD (Microsoft Certified Solutions Developer)

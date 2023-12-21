@@ -1,0 +1,27 @@
+Operating System Programmer
+
+Job description:
+
+•	Monitors system software access, performance, and resource utilization;
+•	Primary responsibility for maintaining the z/OS 2.3 and JES2 software environment;
+•	Work with application programmers to ensure that application problems do not adversely affect production operations;
+•	Ability to provide 24/7/365 software support. This would include on-call support during off-hours;
+•	Assists with the analysis, design, programming, and implementation of applications that will interface with system software;
+•	Develop/maintain/monitor proper software use and security authorization policies;
+•	Creates, maintains, and upgrades software systems for development and production environments;
+•	Analyzes requirements and recommends policies, procedures, and standards for software systems;
+•	Implement and verifies backup and recovery procedures. This would include Business Recovery concerns and associated testing;
+•	Accept ownership of all mainframe-based systems, including multiple z/OS sysplexes;
+•	Install new z/OS releases as they become available and configure to support Stonebranch’s requirements;
+•	Keep supported systems current with the latest maintenance provided by IBM Maintain system reliability and ensure availability;
+•	Provide level 1 operational support for z/VM and zLinux systems;
+•	Be available after hours for emergency or exceptional situations concerning the mainframe and mainframe-based systems;
+•	Resolve any system-related problems that may arise in a timely and efficient manner.
+•	Ability to install and customize IBM and third-party software using SMP/E & IEBCOPY;
+•	Experience in keeping the z/OS hardware configuration current using HCD;
+•	Experience supporting leading/training of software management;
+•	Possible travel and variable hours may be required;
+•	Ability to write software exit program(s) and use software utilities as required;
+•	Solid knowledge of mainframe JCL and utilities;
+•	Ability to write/read/debug programs in a batch and online environment;
+•	Ability to perform multiple activities simultaneously with minimal supervision.

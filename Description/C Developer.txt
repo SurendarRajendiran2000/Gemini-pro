@@ -1,0 +1,21 @@
+C Developer
+
+Job description:
+
+•	Meeting with the IT and design team to discuss application requirements.
+•	Designing and building a reliable and clean C code.
+•	Developing kernel modules, libraries, and embedded systems for other high-level languages.
+•	Implementing quality and performance modules.
+•	Identifying bottlenecks or bugs and troubleshooting integration issues.
+•	Testing code quality and durability.
+•	Maintaining the automation and quality of the code.
+•	Bachelor’s degree in Computer Science, Mathematics, or related field.
+•	Proven work experience as a C Developer.
+•	Proficiency in C and C++.
+•	Knowledge of high-level leagues including Java, Python, Go, and Node.js.
+•	Familiarity with language tools such as Valgrind and Lint.
+•	Good understanding of code versioning tools such as SVN, Mercurial, and Git.
+•	Knowledge of systems design and low-level hardware interactions.
+•	In-depth knowledge of STL and BOOST.
+•	Good problem-solving skills.
+•	Ability to project manage.

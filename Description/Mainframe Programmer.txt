@@ -1,0 +1,14 @@
+Mainframe Programmer
+
+Job description:
+
+•	Application development experience in Design, coding, testing and debugging with mainframe skills such as CICS, VSAM, COBOL, DB2, JCL, Zeke, File Aid, Changeman, AbendAid
+•	Programming, conduct code reviews, and test software as needed, ensuring quality of deliverables
+•	Must have analytical and coding skills from working on IM
+•	Experience in Coolgen
+•	Execute various forms of testing – unit, system, regression, integration, performance, volume
+•	Manages all aspects of implementation planning & coordination
+•	Develops detailed plans and accurate estimates for the design, build, implement and stabilize phases of the project
+•	Performs database/ disaster recovery planning for multiple systems
+•	Assists with vendor negotiations
+•	Facilitates complex group meetings (including business partners) for technical design, decision making, problem solving, implementation and strategic planning

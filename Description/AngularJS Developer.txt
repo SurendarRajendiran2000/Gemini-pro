@@ -1,0 +1,23 @@
+AngularJS Developer
+
+Job description:
+
+•	Designing and developing user interfaces using angularJS best practices.
+•	Adapting interface for modern internet applications using the latest front-end technologies.
+•	Writing JavaScript, CSS, and HTML.
+•	Developing product analysis tasks.
+•	Making complex technical and design decisions for AngularJS projects.
+•	Developing application codes and unit tests in AngularJS, Java Technologies, and Rest Web Services.
+•	Conducting performance tests.
+•	Consulting with the design team.
+•	Ensuring high performance of applications and providing support.
+•	3+ years of development experience.
+•	Bachelor s degree in computer science, computer engineering or similar.
+•	Previous work experience as an angularJS developer.
+•	Proficient in CSS, HTML, and writing cross-browser compatible code.
+•	Experience using JavaScript building tools like Gulp or Grunt.
+•	Knowledge of JavaScript MV-VM/MVC frameworks including AngluarJS.
+•	Excellent project management skills.
+•	Proven experience implementing front-end and back-end JavaScript applications.
+•	Excellent communication skills.
+•	Critical thinker and good problem-solver.

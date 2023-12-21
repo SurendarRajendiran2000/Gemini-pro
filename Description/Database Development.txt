@@ -1,0 +1,11 @@
+Database Development
+
+Job description:
+
+•	Database Developer Specialist.
+•	5to 10 years of experience in software development.
+•	Strong expertise in Microsoft SQL Server, 2016 and above.
+•	( Or )Strong experience in PostgreSQL (In Project)
+•	Good knowledge of SQL Profiler and proficient in performance tuning queries and stored procedures.
+•	Experience in homogeneous and heterogeneous database migrations.
+•	Thorough understanding of all aspects of Software Development Lifecycle (e.g. Requirements gathering, Design, Development, Testing) and exposure to Agile or iterative SDLCs.

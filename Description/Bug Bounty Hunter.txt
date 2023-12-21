@@ -1,0 +1,14 @@
+Bug Bounty Hunter
+
+Job escription:
+
+•	Influence and align the organization’s vision and strategy, while engaging our teams to develop and deliver specific, multi-year roadmaps, programs, and projects. Ensure prioritization, resourcing, and timely delivery of this work within a changing business environment.
+•	Security Reviews: perform manual design and implementation reviews of products and services that make up the Meta ecosystem, like Instagram, WhatsApp, Oculus, Portal, and more.
+•	Automated Analysis and Secure Frameworks: build automation (static and dynamic analysis) and frameworks with software engineers that enable Meta to scale consistently across all of our products.
+•	Developer Guidance: provide guidance and education to developers that help prevent the authoring of vulnerabilities.
+•	Bug Bounty: help provide technical guidance to our world class bug bounty program and independent security researchers.
+•	Industry Impact: push the industry forward through conference talks and open source projects to contribute broadly to security for the world.
+•	8+ years experience dealing with security issues web programming languages, development practices, and common bug patterns.
+•	Experience developing and delivering information on program status for senior leadership.
+•	Experience leading and managing complex cross-functional programs.
+•	Experience with exploiting common security vulnerabilities.

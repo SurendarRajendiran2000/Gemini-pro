@@ -1,0 +1,19 @@
+Analyst Programmer
+
+Job description:
+
+•	Provide technical Support, complete ownership for problem diagnosis and resolution for SQL / Data Related Issues.
+•	Understand and write the SQL queries and stored procedures.
+•	Problem analysis and resolution - with a focus on Data analysis.
+•	SSMS, SSRS and SSIS and able to understand and work with these.
+•	SQL Server Reporting Services Basics, Building, configuration and Installation.
+•	Able to understand the cross technologies data flows and dependency.
+•	Good understanding of integration services (IIS), Pools.
+•	Good analytical, problem-solving and documentation skills.
+•	Solid people networking and collaboration skills
+•	Knowledge of cloud foundry apps/orgs.
+•	Understanding of API Terminology/Methods
+•	Experience of best practices development methodologies. Especially Agile
+•	Performance tuning experience
+•	Provide On-call 24X7 support and willing to work in shifts
+•	Good to have knowledge on AWS Cloud and basic architecture.

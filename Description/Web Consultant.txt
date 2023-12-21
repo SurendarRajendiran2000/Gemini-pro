@@ -1,0 +1,14 @@
+Web Consultant
+
+Job description:
+
+•	Good web development skills (JavaScript, HTML and CSS)
+•	Serve as front-end developer to build websites using a content management system, HTML, PHP, CSS, JavaScript
+•	Strong implementation experience – gathering & interpreting business requirements, designing and documenting technical solutions, and managing/editing JavaScript
+•	Duties will include writing the HTML for emails, processing and uploading lists, QA testing of emails, executing email sends and pulling data from completed campaigns
+•	Skills should include HTML and CSS development for email (this is not the same as web), Microsoft Excel, experience in one of the top email service providers (ExactTarget, Responsys, Cheetah Mail, MailChimp as examples)
+•	Undergraduate degree or diploma in visual design, communications, web design or similar discipline from a recognized university or college
+•	Create material such as knowledge briefs, service delivery kit components and modules
+•	Developing expert level knowledge of Google Analytics tracking and reporting capabilities (training provided)
+•	Communicating the above knowledge to clients in terms that are easy to understand and relevant to their business needs
+•	Delivering and explaining Google Analytics solutions, provided by our engineers, to the client

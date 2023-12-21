@@ -1,0 +1,21 @@
+Quality Assurance Analyst
+
+Job description:
+
+•	Collaborate with the product and development teams to understand the software requirements and ensure high-quality deliverables.
+•	Conduct thorough manual testing of applications, including functional, system, regression, and user acceptance testing.
+•	Develop and execute automated test scripts using Selenium, contributing to our continuous integration and continuous deployment (CI/CD) pipeline.
+•	Participate in design and code reviews, providing feedback on application structure, functionality, and usability.
+•	Contribute to the maintenance and improvement of test frameworks and tools.
+•	Document all test cases and results, maintaining a repository for future reference and compliance purposes.
+•	Identify, log, and track defects to resolution, working closely with developers to ensure prompt and effective resolution.
+•	Stay abreast of the latest industry trends in QA methodologies, tools, and technologies.
+•	Proficiency in designing and implementing test cases, plans, and scripts.
+•	Strong understanding of software development life cycle (SDLC) and software QA methodologies.
+•	Experience with Selenium WebDriver for creating robust, browser-based regression automation suites and tests.
+•	Knowledge of Java or other programming languages used in test automation.
+•	Familiarity with bug tracking tools and QA methodologies.
+•	Basic understanding of HTML, CSS, JavaScript, and web technologies.
+•	Experience working in an Agile/Scrum development process.
+•	Strong analytical, problem-solving, and communication skills.
+•	A team player with an ability to work independently.

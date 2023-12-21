@@ -1,0 +1,25 @@
+Web Developer
+
+Job description:
+
+•	Evaluates new or modified software programs based on user requests and produces a draft of technical specifications including a high level estimate of time to complete.
+•	Develops, tests and implements applications using C#, ASP.NET, MVC, JavaScript, .Net Framework, Web Forms, SQL Server 2012/2016, Visual Studio 2015 and above, TFS, CSS, JQuery, Bootstrap, JSON, AJAX and other related web technologies.
+•	Good understanding of the Digital Experience Platform (DXP) & Web Content Management (WCMS or CMS) industry in general, with a particular focus towards Microsoft .NET technologies, including MVC and MVC Core.
+•	Requires good understanding of web-based Microsoft technologies
+•	Requires good knowledge of database design, writing SQL, T-SQL scripts and stored procedures in SQL Server.
+•	Develops applications for use in a multiplatform environment supporting our worldwide customer base.
+•	Familiar with Agile software development methodology.
+•	Develops, tests and implements Solutions based on latest technologies, techniques and market trends.
+•	Adheres to best practices in software development which include writing clean, readable, testable, and easily maintainable code. Active participation in peer code reviews, creating reference documentation.
+•	Ensures the best possible performance, quality, and responsiveness of applications and delivers on target.
+•	Conducts unit and integration system tests; monitors test results; and takes required corrective action.
+•	Initiates connection with technical and business users in support of validation testing.
+•	Supports QA analysis and testing of feature and integration testing.
+•	Experience with Dot net Full stack development
+•	Experience/Understanding of the UI Development process
+•	Experience with Handling Production environment and Issues reported in production
+•	Experience with Analysing the production issue and find Root cause of the issues using Support tools
+•	Requires good communication skills and be a team player and works closely with business analysts, designers, architects, other developers and quality analysts.
+•	Experience with creating and maintaining software for use in global environments in support of multiple locations around the globe, including currencies, languages, and time zones.
+•	Awareness of need to understand and follow compliance of international regulations regarding but not limited to: GDPR, PII, and ADA.
+•	Mentors and trains developers on new and existing applications, features, and current technology trends.

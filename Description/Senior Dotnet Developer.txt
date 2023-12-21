@@ -1,0 +1,16 @@
+Senior Dotnet Developer
+
+Job description:
+
+Strong working knowledge of .NET Proficient in {C# and/or ASP.NET}, with a good knowledge of their ecosystems Entity Framework (on top of Azure DB preferred) Azure Services: incl. Azure SB, Azure Storages, Azure DB MVC, REST API, JSON, Hangfire, Autofac Proficient understanding of Redis, Sol HTML, CSS, JavaScript, UI, UX
+Familiarity with the Mono framework (optional)
+
+Strong understanding of object-oriented programming Knowledge of .net driven custom CMS Understanding of deployment on AWS CDN integration knowledge is mandatory Skill for writing reusable libraries
+Familiar with various design and architectural patterns Knowledge of concurrency patterns
+Hands on experience with MS SQL / SQL Server MongoDB
+
+Experience with popular web application frameworks Familiarity with Windows Presentation Framework (optional) Knack for writing clean, readable, and easily maintainable code
+Understanding of fundamental design principles for building a scalable application Experience creating database schemas that represent and support business processes
+Basic understanding of Common Language Runtime (CLR), its limitations, weaknesses, and workarounds
+Experience implementing automated testing platforms and unit tests
+Proficient understanding of code versioning tools.

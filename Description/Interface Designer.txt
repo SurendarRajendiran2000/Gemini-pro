@@ -1,0 +1,22 @@
+Interface Designer
+
+Job description:
+
+•	Collaborate with product management and engineering to define and implement innovative solutions for the product direction, visuals and experience
+•	Execute all visual design stages from concept to final hand-off to engineering
+•	Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks
+•	Create wireframes, storyboards, user flows, process flows and site maps to effectively communicate interaction and design ideas
+•	Present and defend designs and key milestone deliverables to peers and executive level stakeholders
+•	Conduct user research and evaluate user feedback
+•	Establish and promote design guidelines, best practices and standards
+•	Proven UI experience
+•	Demonstrable UI design skills with a strong portfolio
+•	Solid experience in creating wireframes, storyboards, user flows, process flows and site maps
+•	Proficiency in Photoshop, Illustrator, OmniGraffle, or other visual design and wire-framing tools
+•	Proficiency in HTML, CSS, and JavaScript for rapid prototyping.
+•	Excellent visual design skills with sensitivity to user-system interaction
+•	Ability to present your designs and sell your solutions to various stakeholders.
+•	Ability to solve problems creatively and effectively
+•	Up-to-date with the latest UI trends, techniques, and technologies
+•	BS/MS in Human-Computer Interaction, Interaction Design, or related
+•	Experience working in an Agile/Scrum development process.

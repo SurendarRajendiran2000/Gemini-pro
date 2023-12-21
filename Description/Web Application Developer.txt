@@ -1,0 +1,20 @@
+Web Application Developer
+
+Job description:
+
+•	Expertise in at least one Object Oriented Programming language (Python, Java, C#, C++)
+•	Good knowledge and experience in Data Structure, Algorithms, and their correct usage
+•	2+ years of hands-on experience in the Django framework
+•	2+ years of experience in Front-end technologies like HTML CSS, JavaScript, AngularJS/React
+•	Working knowledge of RDBMS like Postgres, MySQL, etc.
+•	Good knowledge of DevOps lifecycle, and 1+ years of experience in writing Docker files
+•	Working knowledge of version control systems (i.e., Git, SVN, etc.)
+•	Good unit test and debugging skills
+•	Fair understanding and experience of building Restful Services and Web APIs
+•	Understanding of accessibility and security compliance
+•	Open to learning new software development skills if needed for product development
+•	Participating in planning, definition, and high-level design of the solution and exploration of solution alternatives
+•	Experience in Agile Development and estimating user stories
+•	Coding, Testing, and Documenting new functionalities as well as changes to existing features and ensuring successful completion
+•	Creating and maintaining high performance scalable microservices and Web Front-end
+•	Writing scalable, robust, testable, efficient, and easily maintainable code.

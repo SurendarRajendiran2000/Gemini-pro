@@ -1,0 +1,22 @@
+QA Automation Engineer
+
+Job description:
+
+•	We are looking for a QA Automation Engineer to join our team of IT professionals
+•	In this role, you will be suggesting ideas for automated software test procedures
+•	Besides, you will be highlighting problem areas and tracking bugs that hinder software releases
+•	As a QA Automation Engineer, you will be liaising with the Developers and Manual test engineers and Project Managers to identify and automate key business flows and features as part of regression / Sanity suite
+•	Apart from testing, you should be able to develop well-planned and structured test plans/cases
+•	You will be investigating the cause of non-conforming software programs.
+•	You should be detail-oriented and possess excellent troubleshooting abilities.
+•	We would love to have you onboard, if you have a strong technical background and can streamline all testing activities.
+•	Strong hands-on experience in Cypress is a must.
+•	Strong communication and interpersonal skills.
+•	Strong analytical and problem-solving skills.
+•	Hands on experience with API testing using tools like Postman, Swagger.IO, JMeter, etc.
+•	Continuous Integration tools Git lab, Jenkins, Bit bucket, Git hub
+•	Good to have knowledge on CI/CD pipelines
+•	Good to have working knowledge with technologies like Selenium Rest Assured etc.
+•	Must have working knowledge of database specially with SELECT statement.
+•	Knowledge on DevOps processes and tools are an added advantage.
+•	Good to have exposure to execute scripts in cloud platform like browser stack or similar ones.

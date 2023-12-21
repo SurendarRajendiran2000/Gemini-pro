@@ -1,0 +1,21 @@
+PHP Developer
+
+Job description:
+
+•	Develop and maintain web applications using PHP, Laravel, WordPress, and other relevant technologies.
+•	Collaborate with the front-end team to ensure seamless integration of user-facing elements with server-side logic.
+•	Write clean, efficient, and maintainable code while following industry best practices and coding standards.
+•	Troubleshoot, debug and optimize applications to ensure optimal performance, security, and reliability.
+•	Collaborate with cross-functional teams, including designers, project managers, and other developers, to deliver projects on time and within scope.
+•	Participate in code reviews to provide and receive constructive feedback to improve code quality.
+•	Stay up-to-date with emerging technologies, trends, and best practices in web development.
+•	Bachelor's degree in Computer Science, IT, or a related field (or equivalent work experience).
+•	Proven experience as a PHP Developer with a strong focus on Laravel development.
+•	Proficiency in HTML, CSS, JavaScript, and jQuery for front-end development.
+•	Experience with RESTful API design and integration.
+•	Strong database skills, including SQL and database design.
+•	Solid understanding of software engineering principles and best practices.
+•	Familiarity with version control systems (e.g., Git).
+•	Knowledge of front-end frameworks (e.g., Vue.js or React) is a plus.
+•	Excellent problem-solving and communication skills.
+•	Ability to work both independently and collaboratively in a team environment.

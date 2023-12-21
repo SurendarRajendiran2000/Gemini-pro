@@ -1,0 +1,25 @@
+Software Tester
+
+Job description:
+
+•	You will be working with our devops and product management teams to support all aspects of the testing process for our technical platform.
+•	 Use and adjust testing tools to support of the testing of our platform components.
+•	 Review Software Requirements (in the form of typical requirements or User Stories) to ensure testability, unambiguity, and completeness of those.
+•	 Drive forward a "test-driven approach" within requirements engineering.
+•	 Prepare Test Data.
+•	 Design, maintain and Execute Test Cases.
+•	 Report and manage Defects.
+•	 Define Test Processes.
+•	 Plan and Support User Acceptance Testing.
+•	 Plan and Support automated testing into the regular build/ continuous integration process.
+•	2 to 4 years of experience in modern test methods and technologies for cloud-based software products and CI/CD tools.
+•	 Knowledge in one or more of the of the following: Microsoft Dynamics, Microsoft Azure, Power Platform (Power Apps, Power Automate) and Postman.
+•	 Experience in test management and TEST FIRST approaches (E2E Workflow Test, Behavior/Test Driven Development etc.).
+•	 Understanding of Software Requirements (such as business processes, Use Cases, User stories or others).
+•	 Experience working in an agile environment (Scrum, SAFe).
+•	 Excellent oral and written skills in English.
+•	 Strong willingness to learn and attention to detail.
+•	 Developed sense of ownership
+•	 Good communication and networking skills in an intercultural environment and across all management levels.
+•	 Be proactive, be a technology and business knowledge seeker, work with a team and a passion to solve problems.
+•	 Know how to interact with all different kinds of teams and what is expected of him/her.

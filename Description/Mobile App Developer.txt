@@ -1,0 +1,11 @@
+Mobile App Developer
+
+Job description:
+
+•	Design and develop high-quality mobile applications for Android and Flutter platforms.
+•	Write clean, maintainable, and well-documented code.
+•	Collaborate with cross-functional teams to define, design, and ship new features.
+•	Perform code reviews and ensure the code quality is maintained.
+•	Optimize the performance and responsiveness of the application.
+•	Work with the UX/UI team to implement beautiful designs and intuitive user experiences.
+•	Stay up-to-date with the latest trends and technologies in mobile development.

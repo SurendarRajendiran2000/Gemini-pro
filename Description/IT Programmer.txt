@@ -1,0 +1,17 @@
+IT Programmer
+
+Job description:
+
+•	4+ years of work experience; web and/or mobile application development is mandatory.
+•	Working experience in any of the web technologies platform preferentially ASP.NET(C#), Angular, PHP
+•	Strong knowledge of OOPS and DATABASE
+•	Excellent web-based technologies: JavaScript, jQuery, CSS, HTML
+•	Experience with Web API, REST, and multi-tier distributed systems
+•	Strong knowledge of database modeling and writing queries.
+•	Experience with the OutSystems platform and certifications are a plus.
+•	Experience in Agile methodologies
+•	Quality orientation and attention to detail
+•	Problem-solving skills
+•	Critical thinking and questioning
+•	Fluency in English, written and spoken.
+•	Project experience with the OutSystems platform.

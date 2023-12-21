@@ -1,0 +1,23 @@
+Quality Assurance Engineer
+
+Job description:
+
+•	Strong expertise in manual testing
+•	Design, develop and execute automation scripts using open-source tools.
+•	Responsible for writing test cases, executing them, and maintaining the relevant logs.
+•	Analyze test results to ensure functionality is implemented correctly in all platforms (Android, iOS, and web) and highlight them in case they are not so.
+•	Participating in status meetings
+•	Communicate the progress of testing activities to the Team Lead/Manager
+•	Identify and prepare technical test data
+•	Execute testing cycle activities as defined in the test plan. Identify, log, and follow up on all defects encountered.
+•	Maintain and communicate a solid understanding of software testing best practices, methodologies, and terminology.
+•	Perform thorough regression testing when bugs are resolved
+•	Stay up-to-date with new testing tools and test strategies
+•	Responsible for test related documentation and archiving
+•	Experience with testing REST-based APIs and Services (Postman)
+•	Experience in manual, exploratory, regression, and functional website and mobile testing
+•	Strong analytical skills and a high level of attention to detail
+•	Experience writing automated test scripts for marketing and e-commerce websites
+•	Experience writing automation scripts for desktop and mobile resolutions
+•	Experience with Issue and Project tracking software
+•	Excellent written and verbal communication skills

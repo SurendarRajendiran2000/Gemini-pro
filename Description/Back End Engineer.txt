@@ -1,0 +1,17 @@
+Back End Engineer
+
+Job description:
+
+•	Architect a robust e-commerce platform capable of efficiently managing B2B, B2B2C, and B2C requirements.
+•	Develop and maintain a resilient CMS system to efficiently handle static pages for our e-commerce website.
+•	Configure and manage a variety of content types, including events, blogs, and festive promotional pages.
+•	Oversee the organization and accessibility of media assets, such as images, banners, and PDF files.
+•	Implement and manage dynamic landing page components and carousels for an engaging user experience.
+•	Collaborate closely with the development team to seamlessly integrate CMS functionalities.
+•	Actively participate in project planning, problem-solving, and brainstorming sessions.
+•	Write high-quality, maintainable code that adheres to best practices and project requirements.
+•	Engage in daily Scrum standup meetings, JIRA project management, sprint planning, and progress tracking.
+•	Swiftly adapt to new technologies and frameworks to meet project demands.
+•	Deliver high-quality code and modules, both as a team player and an individual contributor.
+•	Mentor team members, guiding them to excel in their roles.
+•	Establish and maintain a top-notch tech ecosystem to enhance the team's capabilities.

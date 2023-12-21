@@ -1,0 +1,10 @@
+AI Engineer
+
+Job description:
+
+•	Solid understanding of python Experience with deep learning frameworks such as TensorFlow, PyTorch, or JAXExperience with natural language processing (NLP) and machine learning (ML)Experience on Cloud storage, compute engine, VertexAI, Cloud Function, Pub/Sub, Vertex AI etc
+•	Hands on experience with Generative AI support in Vertex, specifically handson experience with Generative AI models like Palm API for text, Palm API for chat and Gen App Builder - Enterprise Search
+•	Familiarity with Prompt Design and prompt tuning for Generative AI models
+•	Ability to work on Vector Data Stores, custom embeddings and generate insights based on embeddings
+•	Exposure and familiarity in developing endpoints and frameworks like Flask or FastAPIExposure and familiarity in using BigQuery (Basic understanding)
+•	Hands-on experience with using LangChain - Chain of Thoughts, tools, simple and sequential chainStrong communication and teamwork skills.

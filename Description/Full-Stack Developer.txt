@@ -1,0 +1,12 @@
+Full-Stack Developer
+
+Job Description
+
+•	Proficiency in Angular, .NET Core, C#, MVC Framework core and MySQL is a must. Candidates should have a solid understanding of these technologies and be able to work efficiently with them.
+•	Strong experience in developing and maintaining web applications and APIs using the specified technology stack.
+•	A good understanding of front-end technologies such as HTML, CSS, and JavaScript is required for seamless collaboration with UI/UX designers.
+•	Familiarity with database design principles and experience with relational databases (e.g., MySQL).
+•	Prior experience with version control systems (e.g., Git) and agile development methodologies will be highly advantageous.
+•	Excellent problem-solving skills and the ability to troubleshoot and debug complex software issues effectively.
+•	Strong communication and team collaboration skills, as the Full Stack Developer will be working closely with other team members and stakeholders.
+•	An analytical mind

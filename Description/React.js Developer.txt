@@ -1,0 +1,20 @@
+React.js Developer
+
+Job description:
+
+•	Develop user interface and interactions using React.js
+•	Building reusable components and front-end libraries for future use
+•	Translating designs and wireframes into high quality code
+•	Should have experience in developing web applications
+•	At least 3 years of hands-on experience in building applications in React JS
+•	Solid understanding of Java script fundamentals including ES6
+•	Hands-on web development experience including the following technologies: jQuery, XML, JSON, HTML5, CSS, Ajax etc.
+•	Have experience on team using Agile/Scrum methodologies, continuous integration, continuous delivery, test automation and release management
+•	Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+•	Take ownership of components and be responsible for the sub systems right from design, code, testing, integration, to deployment, and further enhancements.
+•	Generate Restful Services specifications and coordinate with other development teams for implementation
+•	Report status, intimate any risks identified with the task delivery to team lead
+•	Experience with web-scale online platforms and capabilities including mobile web development
+•	Knowledge in distributed front end / backend systems and API design (REST)
+•	Experience with version control software such as Git and use of Firebug or Web Developer toolkits and IDEs
+•	Mobile app development experience is a plus.

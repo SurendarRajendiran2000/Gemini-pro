@@ -1,0 +1,17 @@
+COBOL Programmer
+
+Job description:
+
+•	Develop and maintain mainframe applications using PL/I, Assembler, CICS, and COBOL.
+•	Collaborate with cross-functional teams to gather and analyze requirements, design solutions, and implement enhancements to existing applications.
+•	Perform code reviews, debugging, and unit testing to ensure the quality and reliability of the developed software.
+•	Troubleshoot and resolve production issues related to mainframe applications in a timely manner.
+•	Document technical specifications, user manuals, and release notes for developed applications.
+•	Minimum 8 years of experience in mainframe development, with a strong focus on PL/I, Assembler, CICS, and COBOL.
+•	Proficient in coding, debugging, and testing mainframe applications.
+•	Solid understanding of mainframe architecture and core technologies.
+•	Experience in working with DB2 databases is highly desirable.
+•	Familiarity with mainframe support processes and procedures.
+•	Strong problem-solving and analytical skills.
+•	Excellent communication and interpersonal skills.
+•	Ability to work independently and collaboratively in a team environment.

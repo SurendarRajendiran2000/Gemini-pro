@@ -1,0 +1,25 @@
+Artificial Intelligence Specialist
+
+Job description:
+
+•	Utilize Large Language Models (LLMs), Open Source, Machine Learning, and numerical programming frameworks, to build transformative solutions.
+•	Understanding of AI Models, Large Language Models, and AI specialized infrastructure especially as it relates to AI trends and issues within businesses.
+•	Work with Product Development as a Generative Artificial Intelligence (AI) subject matter expert and architect and develop scalable, resilient, ethical AI solutions.
+•	Build solutions that align with responsible AI practices.
+•	Architect and develop software or infrastructure for scalable, distributed systems and with machine learning technologies.
+•	Work with both open source models (Tensorflow, PyTorch, Hugging Face Transformers) cloud solutions, internal solutions and external partners to deliver the best solutions 
+•	Optimize existing generative AI models for improved performance, scalability, and efficiency.
+•	Develop and maintain AI pipelines, including data preprocessing, feature extraction, model training, and evaluation.
+•	Develop clear and concise documentation, including technical specifications, user guides, and presentations, to communicate complex AI concepts to both technical and non-technical stakeholders.
+•	Contribute to the establishment of best practices and standards for generative AI development within the organization.
+•	Experience working with recommendation engines, data pipelines, or distributed machine learning.
+•	Degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field. A Ph.D. is highly desirable.
+•	2 years of experience in research with sequential modeling or generative AI, deep learning architectures, and Transformers, with a strong understanding of deep learning techniques such as GPT, VAE, and GANs.
+•	2 years of experience working in a complex, matrixed organization involving cross-functional or cross-business projects.
+•	Programming experience in C/C++, Java, Python, computer vision, self-supervised learning, transfer learning, and reinforcement learning.
+•	Experience with machine learning libraries and frameworks such as TensorFlow, PyTorch, or Keras
+•	Experience with natural language processing (NLP) techniques and tools, such as SpaCy, NLTK, or Hugging Face.
+•	Strong knowledge of data structures, algorithms, and software engineering principles.
+•	Familiarity with cloud-based platforms and services, such as AWS, GCP, or Azure.
+•	Excellent problem-solving skills, with the ability to think critically and creatively to develop innovative AI solutions.
+•	Strong communication skills, with the ability to effectively convey complex technical concepts to a diverse audience.

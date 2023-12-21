@@ -1,0 +1,20 @@
+Business Systems Analyst
+
+Job description:
+
+•	Collaborate as part of a team to ensure the stability, integrity, and efficient operation of business systems
+•	Administer, monitor, and maintain applications in accordance with area standards
+•	Provide Tier I and Tier II customer service and functional support to end-users in area of expertise; work with customers to diagnose, review, and resolve incidents
+•	Serve as a liaison between technical staff and user groups
+•	Consult with users to identify business needs and requirements
+•	Execute developed test plans to ensure desired results are achieved; support testing such as user acceptance, performance, security, and usability
+•	Perform regular maintenance and testing along with software upgrades to verify effect on existing features and functions
+•	Contribute to the modification and configuration of systems to meet business needs and stakeholder requirements
+•	May design and edit application workflows to enhance business processes
+•	May update and maintain user accounts and manage various permissions
+•	Collaborate with vendor partners as needed; work with vendors on bug fixes
+•	Provide user training and demonstration of systems
+•	Collaborate in the preparation of technical reports, diagrams, workflow maps, or other visuals to facilitate enhanced system understanding 
+•	Create and manage documentation; maintain records of system changes and incidents
+•	May develop, produce, and optimize customized reports in response to user requirements 
+•	Maintain familiarity with installed software standards and procedures and evaluate other tools to determine appropriate fit.

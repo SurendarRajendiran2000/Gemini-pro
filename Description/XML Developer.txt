@@ -1,0 +1,22 @@
+XML Developer
+
+Job description:
+
+•	Consulting with managers and analyzing processes to determine XML needs.
+•	Optimizing the provision of virtual content across our web-based platforms.
+•	Defining XML rules for documents shared via the web.
+•	Writing XML commands to transmit programs across our networks.
+•	Reducing data redundancy by allowing content management systems to store all document formats.
+•	Applying relevant sets of rules to enable B2B data exchanges and enabling WML-based applications to exchange data on mobile devices.
+•	Running diagnostic tests, resolving errors, and providing back-end support.
+•	Writing Java API applications, developing and managing XML transformations, and executing Agile development tools.
+•	Documenting XML development processes, XML schema definitions, rules, and standards, as well as preparing progress reports.
+•	Keeping informed of advancements in XML development.
+•	XML certification preferred.
+•	Minimum of 3 years' experience as an XML developer.
+•	Extensive programming experience in developing data-driven, web applications.
+•	In-depth knowledge of programming languages such as SQL, Java, HTML, and CSS.
+•	Solid knowledge of JavaScript and JQuery AJAX to align backend processes with end-user functionality.
+•	Exceptional analytical and problem-solving skills.
+•	Excellent collaboration and communication abilities.
+•	Great organizational and time management skills.

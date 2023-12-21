@@ -1,0 +1,25 @@
+Senior SQL Developer
+Location: Chennai /Pondicherry
+
+Job Summary
+
+Seeking DevOps Engineer, who will be working with cross-functional teams to define, design, and deliver DevOps infrastructure and adopt best practices of IAC to guarantee a robust and stable CI/CD process to increase efficiency and achieve 100% automation.
+
+Essential Responsibilities
+
+Ready to handle Development work as an Individual contributor
+Utilizes good understanding of apps development procedures and concepts from a general and database point of view, basic knowledge of other technical areas to identify and define necessary system upgrades
+Solves least complex problems through evaluation of business processes, system processes and industry standards; uses evaluative judgment to make recommendations for process improvements
+Assesses the applicability of previous or similar experiences and evaluates options under circumstances not covered by procedures
+Communicates ideas and information in a concise and logical manner
+Together with the partner teams, user community, business analysts and contribute to innovative & best-in-class solutions
+Requirements
+
+Excellent command and understanding of Dynamic and Advanced SQL queries in MS SQL Server, and extensively experienced with SQL / T-SQL / SSIS / SSRS
+Excellent knowledge in SQL, SQL Tuning, Query, Procedure, Trigger & Function Expert, SQL Developer, Data warehousing, knowledge of OLAP & SSAS
+Experience knowledge of SQL Server administrative tools including SQL Server Management Studio, SQL Server Profiler, SQL Server Agent and sqlcmd utilities
+Experience in test data creation, importing and exporting database dumps
+Exposure to DB Replication & Maintenance
+Experience in Agile software development methodologies
+Experience in CDC (Change Data Capture)
+Experience in managing SQL Database project through Visual Studio IDE

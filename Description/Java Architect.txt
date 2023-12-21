@@ -1,0 +1,20 @@
+Java Architect
+
+Job description:
+
+•	Knowledge of architectural design patterns, performance tuning, database and functional designs
+•	Hands-on experience in Service Oriented Architecture
+•	Ability to lead solution development and delivery for the design solutions
+•	Experience in designing high level and low level documents is a plus
+•	Good understanding of SDLC is a pre-requisite
+•	Awareness of latest technologies and trends
+•	Logical thinking and problem solving skills along with an ability to collaborate
+•	Should be able to use design patterns to make the application reliable, scalable, and highly available
+•	Should be able to design Microservices and Serverless based architecture
+•	Work with client architect and define top notch solutions Skills:
+•	Solid development experience in Springboot, JPA, Hibernates, Web Application Development
+•	Experience in Application Architecture & Design of Java Based Applications
+•	Good Knowledge of Microservices Architecture and related technologies
+•	Experience in Integration Technologies and Architecture
+•	Working knowledge of frontend and database technologies
+•	Familiarity with Agile & DevSecOps, Log Analytics, APM

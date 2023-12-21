@@ -1,0 +1,21 @@
+Web Page Developer
+
+Job description:
+
+•	Work closely with project manager, development team, information system security manager; however, the client project manager will manage the priorities.
+•	Provide occasional on call duty as needed.
+•	Assess and validate Software requirements across the client organization.
+•	Provide architectural design and web development support to meet web application requirements.
+•	Participate in software design discussions and recommend implementation of the tools, technologies and techniques.
+•	Redesign the existing Web, Software or SharePoint applications to add new features, optimize, scale or improve stability and performance.
+•	Create, manage, and maintain software systems in AWS.
+•	Provide O&M and content management support for client’s Web, software and SharePoint Sites.
+•	Work within Agile project management methodologies.
+•	Active/current TS/SCI with Polygraph security clearance.
+•	Demonstrated experience developing, deploying, and maintaining software applications and systems.
+•	Demonstrated experience identifying and validating requirements for SharePoint sites, Software or Web sites.
+•	Demonstrated experience working in cloud AWS architecture.
+•	Demonstrated experience adding new features, optimizing, scaling, or improving stability and performance of applications, SharePoint or Web.
+•	Demonstrated experience using JavaScript (JS).
+•	Java (e.g., Springboot, Maven, Apache), Typescript (e.g., Angular, NestJS, React, Vue), Javascript (NodeJS, Express, etc.), AWS Cloud Services (S3, RDS, SQS, Lambda, EC2, etc.), CI/CD familiarization, Linux proficiency.
+•	Experience with MySQL or equivalent (Postgres, SQL), developing complex data models, optimizing queries, and using Object Relational Mapping (ORM) frameworks such as TypeORM for typescript.

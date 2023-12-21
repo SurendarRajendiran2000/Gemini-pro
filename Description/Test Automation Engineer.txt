@@ -1,0 +1,23 @@
+Test Automation Engineer
+
+Job description:
+
+•	Collaborate with stakeholders to identify potential automation opportunities and define project requirements.
+•	Design, develop, and implement automated solutions to optimize processes and improve efficiency.
+•	Create and maintain automation frameworks, libraries, and test scripts for various applications and systems.
+•	Perform end-to-end testing, including functional, regression, and performance testing, using automated tools and frameworks.
+•	Troubleshoot and debug automation scripts and systems to ensure accuracy and reliability.
+•	Conduct code reviews and provide technical guidance to ensure high-quality automation deliverables.
+•	Continuously monitor and analyze automation results, identify areas for improvement, and implement enhancements accordingly.
+•	Collaborate with cross-functional teams, including developers, QA analysts, and project managers, to ensure seamless integration of automated processes.
+•	Stay updated with the latest automation technologies, tools, and best practices, and proactively propose their implementation to enhance automation capabilities.
+•	Document automation processes, methodologies, and configurations for future reference.
+•	Strong programming skills in Java.
+•	Proficiency in automation tools/frameworks such as Selenium WebDriver.
+•	Experience working with continuous integration and delivery (CI/CD) tools such as Jenkins, Git, and JIRA
+•	Hands-on experience with API testing and automation tools like Postman or SoapUI.
+•	Familiarity with relational databases and ability to write SQL queries for data validation and verification.
+•	Knowledge of Agile/Scrum methodologies and experience working in an Agile development environment.
+•	Excellent problem-solving and analytical skills, with a keen attention to detail.
+•	Strong communication and interpersonal skills to collaborate effectively with cross-functional teams.
+•	Ability to multitask, prioritize work effectively, and thrive in a fast-paced, deadline-driven environment.

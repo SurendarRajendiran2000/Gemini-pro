@@ -1,0 +1,17 @@
+HTML Developer
+
+Job description:
+
+•	Understand the goals and strategy behind each project from conception through completion as per design specifications
+•	Identify opportunities for technical improvements and make constructive suggestions for change/improvements
+•	Work closely with project managers, technical leads, and design team members to ensure that all design conversions are accurate to the designs
+•	Collaborate with user experience team on interaction design and design team on visual design for execution to ensure seamless transition between user experience design and visual design
+•	Ensure pixel perfect sites are developed and meet the design requirements to integrate code with the back-end development team
+•	Ensure effective/appropriate utilization of hooks in XHTML to limit the number of classes and ID’s required on a page for projects
+•	Work closely with project operations/account managers/art directors to develop design options for any potential/new business opportunities
+•	Work closely with production staff/ HTML developers and ensure the client requirements are met with high quality standards
+•	Develop quality parameters and standard set of procedures for consistency in ensuring RRD brand and performance at each stage of delivering work product/outcomes
+•	Understand the HTML best practices / latest web design trends in user interface design and leverage these on project applications
+•	Conduct/participate in brainstorming sessions, workshops and other activities to keep up the team synergy and also provides regular mentorship support to HTML developers on technical know-how
+•	Independently work on challenging client requirements/assignments to produce high quality deliverables and proactively trouble shoots issues
+•	Attend to adhoc /any additional duties and responsibilities assigned by top and senior management from time to time.

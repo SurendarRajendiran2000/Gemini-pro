@@ -1,0 +1,14 @@
+Full Stack Developer
+
+Job description:
+
+•	Collaborate with cross-functional teams to understand project requirements and contribute to the design and architecture of full-stack solutions.
+•	Develop and maintain server-side logic, databases, and APIs to ensure seamless integration with front-end components.
+•	Design and implement scalable, responsive, and user-friendly web applications using front-end technologies such as HTML, CSS, and JavaScript.
+•	Implement and maintain security and data protection measures across the full stack.
+•	Collaborate with UX/UI designers to implement design concepts and ensure a cohesive and visually appealing user experience.
+•	Write well-documented, reusable, and efficient code for both front-end and back-end components.
+•	Conduct thorough testing and debugging to identify and resolve issues, ensuring high-quality code.
+•	Stay abreast of emerging technologies and industry trends, incorporating them into development processes.
+•	Participate in code reviews to maintain code quality, share knowledge, and provide constructive feedback.
+•	Work closely with other team members, including other developers, designers, and product managers, to deliver high-quality software solutions.

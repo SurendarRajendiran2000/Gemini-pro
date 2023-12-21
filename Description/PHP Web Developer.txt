@@ -1,0 +1,26 @@
+PHP Web Developer
+
+Job description:
+
+•	Develop and maintain dynamic and interactive web applications using PHP.
+•	Collaborate with cross-functional teams to understand project requirements and contribute to the design and architecture of server-side solutions.
+•	Write well-structured, efficient, and reusable PHP code.
+•	Integrate user-facing elements using HTML, CSS, and JavaScript.
+•	Work with databases (e.g., MySQL) to store and retrieve data efficiently.
+•	Implement and maintain server-side logic and APIs for seamless communication with front-end components.
+•	Conduct thorough testing and debugging to identify and resolve issues, ensuring high-quality code.
+•	Implement security measures to protect web applications from vulnerabilities.
+•	Stay updated on the latest industry trends and best practices in PHP development.
+•	Collaborate in code reviews to maintain code quality, share knowledge, and provide constructive feedback.
+•	Participate in the optimization of web applications for maximum speed and scalability.
+•	Proven experience as a PHP Web Developer or similar role.
+•	Strong proficiency in PHP, HTML, CSS, and JavaScript.
+•	Experience with PHP frameworks (e.g., Laravel, Symfony).
+•	Knowledge of front-end technologies and their integration with PHP.
+•	Experience with database design and management (e.g., MySQL).
+•	Familiarity with RESTful API design and implementation.
+•	Understanding of version control systems, such as Git.
+•	Solid understanding of software engineering principles and best practices.
+•	Excellent problem-solving and debugging skills.
+•	Strong collaboration and communication skills.
+•	Bachelor’s degree in Computer Science, Engineering, or a related field (preferred).

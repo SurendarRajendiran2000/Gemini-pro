@@ -1,0 +1,14 @@
+Back-End Web Developer
+
+Job description:
+
+•	Minimum Bachelor of Science in computer science, software engineering, programming, or equivalent
+•	Proficiency with languages such as Java, Ruby, PHP, MySQL, SQL, and Python
+•	Proficiency in at least one of the following: JavaScript, Ajax, jQuery, HTML, CSS, Bootstrap
+•	Understanding of object-oriented programming
+•	Experience with the design and implementation of APIs
+•	Understanding of code versioning tools such as SVN, Git, and Mercurial
+•	Understanding of code management tools such as Subversion, Git, and Helix Core
+•	Understanding of code deployment tools such as Jenkins, Capistrano, and ElectricFlow
+•	Track record of successfully managing multiple company or customer websites
+•	Excellent time-management and communication skills.

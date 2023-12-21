@@ -1,0 +1,17 @@
+Application Programmer
+
+Job description
+
+•	Collaborates with clients and/or internal teams to understand user needs; drafts initial proposals and designs of software to meet these needs.
+•	Assesses feasibility of design and project parameters within time and cost constraints.
+•	Analyzes user needs and designs software for client use.
+•	Develops code and designs software applications based on user specifications.
+•	Modifies existing software to correct errors or improve performance.
+•	Monitors and assists with software testing and validation procedures and programming.
+•	Monitors and assists with software installation; ensures applications operate within established specifications.
+•	Gathers and evaluates user feedback and modifies software for better usability.
+•	Designs databases for specific applications.
+•	Determines required system performance standards and hardware configurations based on client specifications, budget, security needs, and other parameters.
+•	Collaborates with systems analysts, engineers, and programmers to design systems to support applications.
+•	Advises clients on software maintenance.
+•	Performs other duties as assigned.

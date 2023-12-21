@@ -1,0 +1,18 @@
+Salesforce Developer
+
+Job description:
+
+•	Strong understanding of Salesforce Sales Cloud architecture, configuration, and customization • Proficiency in Salesforce development languages, including Apex, Visualforce, and Lightning Components
+•	Experience with Salesforce Lightning, Sales Cloud, and Service Cloud features
+•	Responsible for leading and managing the implementation and enhancement of Salesforce Sales Cloud solutions
+•	Collaborate with business stakeholders to understand and document requirements for Salesforce Sales Cloud solutions
+•	Lead the development, configuration, and customization of Salesforce Sales Cloud features, including workflows, reports, dashboards, and custom objects
+•	Write Apex code, Lightning Components, and Visualforce pages as needed to extend Salesforce functionality
+•	Integrate Salesforce Sales Cloud with other systems and applications using APIs and middleware tools
+•	Ensure data consistency and integrity across integrated systems
+•	Integrate Salesforce Sales Cloud with other systems and applications using APIs and middleware tools
+•	Configure and maintain Salesforce security settings, roles, profiles, and permissions
+•	Ensure compliance with data privacy regulations and security best practices
+•	Collaborate with cross-functional teams and vendor teams to ensure project success
+•	Create and maintain technical documentation, including solution design documents, configuration guides, and user guides
+•	Salesforce Certified Sales Cloud Consultant or Salesforce Certified Platform Developer certifications are highly desirable.

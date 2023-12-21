@@ -1,0 +1,23 @@
+Full Stack Web Developer
+
+Job description:
+
+•	Collaborate with cross-functional teams to understand project requirements and contribute to the design and architecture of full-stack solutions.
+•	Develop and maintain server-side logic, databases, and APIs to ensure seamless integration with front-end components.
+•	Design and implement scalable, responsive, and user-friendly web applications using front-end technologies such as HTML, CSS, and JavaScript.
+•	Implement and maintain security and data protection measures across the full stack.
+•	Write well-documented, reusable, and efficient code for both front-end and back-end components.
+•	Conduct thorough testing and debugging to identify and resolve issues, ensuring high-quality code.
+•	Work with UX/UI designers to implement design concepts and ensure a cohesive and visually appealing user experience.
+•	Integrate third-party services and APIs as needed.
+•	Stay up-to-date with emerging technologies and industry trends, incorporating them into development processes.
+•	Participate in code reviews to maintain code quality, share knowledge, and provide constructive feedback.
+•	Work closely with other team members, including other developers, designers, and product managers, to deliver high-quality software solutions.
+•	Contribute to the optimization of the application for maximum speed and scalability.
+•	Proven experience as a Full Stack Web Developer or similar role.
+•	Proficiency in front-end technologies such as HTML, CSS, and JavaScript, with expertise in at least one modern front-end framework (e.g., React, Angular, Vue.js).
+•	Strong understanding of server-side languages (e.g., Node.js, Python, Java, Ruby) and frameworks.
+•	Experience with databases (e.g., MySQL, MongoDB, PostgreSQL) and data modeling.
+•	Knowledge of RESTful API design and implementation.
+•	Familiarity with version control systems, such as Git.
+•	Understanding of cloud computing platforms (e.g., AWS, Azure) and deployment processes.

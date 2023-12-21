@@ -1,0 +1,15 @@
+Front End Engineer
+
+Job description:
+
+•	Develop and implement responsive and intuitive user interfaces.
+•	Collaborate with design teams to bring visual concepts to life.
+•	Ensure the technical feasibility of UI/UX designs.
+•	Optimize applications for maximum speed and scalability.
+•	Stay informed about emerging front-end technologies and best practices.
+•	Collaborate with back-end developers to integrate user-facing elements.
+•	Troubleshoot and resolve front-end issues and bugs.
+•	Proven experience as a Front-End Developer or similar role.
+•	Strong proficiency in HTML, CSS, and JavaScript.
+•	Experience with front-end frameworks such as React, Angular, or Vue.js.
+•	Knowledge of web performance optimization and responsive design.

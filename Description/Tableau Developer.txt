@@ -1,0 +1,16 @@
+Tableau Developer
+
+Job description:
+
+•	The successful applicant will be joining a London based Operations team to be the primary Tableau resource for the business
+•	The candidate will be required to design, construct, and enhance the organizations data visualization using Tableau software and will be required to collaborate closely with business analysts to understand requirements and translate them to visually pleasing and informative dashboards
+•	Publish Data Sources and Dashboards - applying scheduled refreshes.
+•	Confidently navigate Tableau Server (Explore, Users, Groups)
+•	Combine data from multiple tables using joins, unions, and relationships.
+•	Build advanced chart types with calculations and actions.
+•	Use parameters and input controls to support analysis.
+•	Format visualizations and dashboards for maximum impact
+•	2-3 Years background in BI development, with expertise in Tableau Desktop/Server development for creating clear reports.
+•	Proficiency in data visualization best practices, data extraction, and transformation.
+•	Experience working with a variety of file formats and data sets with strong Excel Skills
+•	The ability to collaborate with cross-functional teams to gather requirements and deliver valuable insights.

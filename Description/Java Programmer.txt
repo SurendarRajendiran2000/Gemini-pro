@@ -1,0 +1,19 @@
+Java Programmer
+
+Job description:
+
+•	At least 6 years of experience in Java and SQL programming
+•	Good knowledge of Java, especially in areas like handling multiple tasks at the same
+•	time, input/output processes, and managing different types of operations
+•	Background in finance is a plus. Familiarity with Sybase, C++, and Perl is preferred
+•	Experience in building and managing big applications, especially in finance
+•	Hands-on experience with Spring boot Microservices is a bonus. Its great if youve
+•	worked on shifting from one large system to a more modern, flexible setup
+•	Experience in DevOps processes, ideally with knowledge of ADO (Azure DevOps) and
+•	tools like GIT for managing versions
+•	Design, create, and keep up Java-based applications. They should be fast, able to grow when needed, and reliable
+•	Use the best ways to write Java code, including managing many tasks at once, to make software thats quick and works well
+•	Work with different teams to understand what the project needs and make solutions that match what the business wants
+•	Fix any tech problems and mistakes to keep the software running smoothly
+•	If the work involves finance, use what you know about it in the projects
+•	Help with the DevOps process, by using ADO (Azure DevOps) and GIT for managing versions

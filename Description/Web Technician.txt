@@ -1,0 +1,22 @@
+Web Technician
+
+Job description:
+
+•	Reviewing and performance-testing existing server systems.
+•	Installing and maintaining web server hardware and software.
+•	Optimizing server networks.
+•	Ensuring the quality of web products and services.
+•	Troubleshooting network and server failures.
+•	Proposing and implementing solutions to website malfunctions.
+•	Monitoring and maintaining website system security.
+•	Providing technical support.
+•	Auditing and editing company websites.
+•	Backing-up web servers and providing recovery options.
+•	Previous work experience as a web technician.
+•	Advanced knowledge of AWS, CCDD, MCSD, and Oracle APEX.
+•	Knowledge of programming languages including HTML, Perl, and JavaScript.
+•	Knowledge of web tools including Dreamweaver, FrontPage, and Adobe Acrobat.
+•	Detailed knowledge of hardware systems including circuit boards, processors, and memory modules.
+•	Knowledge of network security systems.
+•	Ability to troubleshoot complex web and software issues.
+•	Good communication skills.

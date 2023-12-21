@@ -1,0 +1,21 @@
+Web Site Designer
+
+Job description:
+
+•	Execute all visual design stages from concept to final hand-off to engineer.
+•	Conceptualize original website design ideas that bring simplicity and user friendliness to complex roadblocks.
+•	Create wireframes, user flows and site maps to communicate interaction and design ideas.
+•	Present and defend designs and key deliverables to peers and executive level stakeholders.
+•	Establish and promote design guidelines, best practices and standards.
+•	Work closely with web developers to implement the design into a functional website, ensuring that the design is translated accurately and efficiently.
+•	Stay informed about the latest trends and technologies in web design and apply them to enhance the quality and features of websites.
+•	The candidate should have atleast 1 year of work experience as a Web Designer.
+•	Proficiency in HTML, CSS, JavaScript and Responsive for rapid prototyping.
+•	Demonstrable graphic design or Visual Design skills with a strong portfolio.
+•	Excellent understanding of digital design principles, color theory, and user experience (UX).
+•	Solid experience in creating wireframes, user flows, process flows and site maps.
+•	Proficiency in Photoshop, Illustrator or other visual design and wire-framing tools like Figma, Adobe XD.
+•	Excellent visual design skills with sensitivity to user-system interaction.
+•	Ability to solve problems creatively and effectively.
+•	Well Known knowledge For Design Systems.
+•	Strong knowledge of HTML, CSS, SCSS, JavaScript, Bootstrap 4 and 5, Basic VueJS, jQuery.
