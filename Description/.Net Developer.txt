@@ -1,0 +1,25 @@
+ob Description: .NET Developer
+
+Position: .NET Developer
+
+Location: Pondicherry/Chennai
+
+Job Summary:
+We are seeking a proficient .NET Developer to join our dynamic team in Pondicherry/Chennai. The ideal candidate will demonstrate robust experience and skills in .NET Framework, C#.Net, MVC, Web Services, XML, MS SQL, SQLite, and Database Design.
+
+Experience Required:
+Applicants should possess a professional background with 3 to 5 years of experience in software development within the .NET framework.
+
+Key Responsibilities:
+
+Software Development: Design and construct innovative software solutions utilizing the .NET Framework.
+Application Development: Develop, deploy, and maintain business applications built within the .NET environment.
+Database Expertise: Proficient in database designing, database creation, MS SQL, SQLite, and optimized database query design.
+Code Development: Develop clean, well-structured code with a focus on abstraction and reusability.
+Desired Skills and Abilities:
+
+Programming Expertise: Strong programming skills in C#.Net and a comprehensive understanding of the .NET environment.
+Web Application Knowledge: Experience in developing web applications using MVC and Web Services.
+Database Management: Hands-on experience in MS SQL, SQLite databases, and expertise in Database Design.
+Independent Task Management: Ability to handle tasks independently while maintaining high-quality work under pressure.
+Troubleshooting Skills: Proficiency in debugging, troubleshooting, and analytical problem-solving.
